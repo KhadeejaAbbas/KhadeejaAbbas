@@ -13,11 +13,12 @@ Independent research in gene analysis 🧬 for Tuberculosis supervised by Dr. Sh
 
 ## 🌱 I’m currently learning
 # 🇳🇴 🇯🇵
+# 📚
 
 ## 🔨 I've contributed to
-[<img src="https://embeddedinembedded.com/wp-content/uploads/2023/08/EiEBoard-e1692740173792.jpg" height="240px">](https://github.com/KhadeejaAbbas/razor_sam3u2)
+[<img src="https://embeddedinembedded.com/wp-content/uploads/2023/08/EiEBoard-e1692740173792.jpg" height="230px">](https://github.com/KhadeejaAbbas/razor_sam3u2)
 [<img src="https://cdn-icons-png.flaticon.com/512/1788/1788637.png" height="225px">]((https://github.com/KhadeejaAbbas/CalgaryHacks2024))
-[<img src="https://static.vecteezy.com/system/resources/previews/011/003/366/original/cute-travel-icon-free-png.png" height="250px">](https://github.com/KhadeejaAbbas/CalgaryHacks2023)
+[<img src="https://static.vecteezy.com/system/resources/previews/011/003/366/original/cute-travel-icon-free-png.png" height="240px">](https://github.com/KhadeejaAbbas/CalgaryHacks2023)
 
 
 
