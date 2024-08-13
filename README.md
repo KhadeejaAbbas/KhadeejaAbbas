@@ -12,8 +12,7 @@ I'm a Canadian 🇨🇦 currently in the Mountain Time Zone 🏔. I'm interested
 Independent research in gene analysis 🧬 for Tuberculosis supervised by Dr. Shuyi Ma 
 
 ## 🌱 I’m currently learning
-> 🇳🇴
-> 🇯🇵
+![Norwegian](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/1200px-Flag_of_Norway.svg.png)
 ## 🔨 I've contributed to
 
 [<img src="https://www.google.ca/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F4218406-cute-parking-attendant-vector-design&psig=AOvVaw1oQY7qvrxgEfDt9Np4DctW&ust=1723601187154000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMim3PXw8IcDFQAAAAAdAAAAABAP" height="50px">]((https://github.com/KhadeejaAbbas/CalgaryHacks2024))
