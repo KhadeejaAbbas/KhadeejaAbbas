@@ -15,10 +15,9 @@ Independent research in gene analysis 🧬 for Tuberculosis supervised by Dr. Sh
 # 🇳🇴 🇯🇵
 
 ## 🔨 I've contributed to
-
+[<img src="https://embeddedinembedded.com/wp-content/uploads/2023/08/EiEBoard-e1692740173792.jpg" height="250px">](https://github.com/KhadeejaAbbas/razor_sam3u2)
 [<img src="https://cdn-icons-png.flaticon.com/512/1788/1788637.png" height="225px">]((https://github.com/KhadeejaAbbas/CalgaryHacks2024))
 [<img src="https://static.vecteezy.com/system/resources/previews/011/003/366/original/cute-travel-icon-free-png.png" height="250px">](https://github.com/KhadeejaAbbas/CalgaryHacks2023)
-[<img src="https://embeddedinembedded.com/wp-content/uploads/2023/08/EiEBoard-e1692740173792.jpg" height="250px">](https://github.com/KhadeejaAbbas/razor_sam3u2)
 
 
 
@@ -26,16 +25,3 @@ Independent research in gene analysis 🧬 for Tuberculosis supervised by Dr. Sh
 ## 📫 How to reach me
 
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4vtphMtxRWfK6nO2CIbGfSETyEs79Dr6oPw&s" height="50px">](mailto:khadeejaabbas58@gmail.com)
-
-<!--
-**KhadeejaAbbas/KhadeejaAbbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
--->
