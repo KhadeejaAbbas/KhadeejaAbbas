@@ -1,7 +1,5 @@
 ## Hello 👋 , my name is Khadeeja Abbas
 
-[![youtube channel link](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@KhadeejaAbbasw)
-
 ## 🍓 About me
 
 ![profile view count](https://komarev.com/ghpvc/?username=KhadeejaAbbas)
@@ -26,4 +24,4 @@ Independent research in gene analysis 🧬 for Tuberculosis supervised by Dr. Sh
 ## 📫 How to reach me
 
 
-[<img src="https://i.pinimg.com/564x/9f/0c/1f/9f0c1f75b46449d96ce3547556e5ae70.jpg" height="50px">](mailto:khadeejaabbas58@gmail.com)
+[<img src="https://i.pinimg.com/564x/9f/0c/1f/9f0c1f75b46449d96ce3547556e5ae70.jpg" height="50px">](mailto:khadeeja.abbas@ucalgary.ca)
