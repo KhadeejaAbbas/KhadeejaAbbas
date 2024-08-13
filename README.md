@@ -7,13 +7,13 @@
 
 ![profile view count](https://komarev.com/ghpvc/?username=KhadeejaAbbas)
 
-I'm a sports jock interested in researching the best ways to help as many people I can. I'm interested in using technical skills to solve old problems - such as Tuberculosis! When I'm not chasing purpose, I can be found training Brazilian Jiu-Jitsu 🥋, running 🏃‍♂️, swimming 🏊, playing with dev boards 💡, or chilling with my family 👨‍👩‍👧‍👦. 
+I'm a Canadian 🇨🇦 currently in the Mountain Time Zone 🏔. I'm interested in researching the best ways to help as many people I can. This includes using technical skills to solve old problems - such as Tuberculosis 🧬 ! When I'm not chasing purpose, I can be found training Brazilian Jiu-Jitsu 🥋, running 🏃‍♂️, swimming 🏊, playing with dev boards 💡, or chilling with my family 👨‍👩‍👧‍👦. 
 ## 🔭 I'm currently working on
 
-Independent research in gene analysis for Tuberculosis supervised by Dr. Shuyi Ma
+Independent research in gene analysis 🧬 for Tuberculosis supervised by Dr. Shuyi Ma 
 
 ## 🌱 I’m currently learning
-
+[<img src="https://www.google.ca/url?sa=i&url=https%3A%2F%2Femojiterra.com%2Fflag-for-norway%2F&psig=AOvVaw0T1ubWI8R5g6A9V_lxLrzg&ust=1723601042910000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjKnLPw8IcDFQAAAAAdAAAAABAE" height="50px">])
 [![Norwegian flag]((https://www.google.ca/url?sa=i&url=https%3A%2F%2Femojiterra.com%2Fflag-for-norway%2F&psig=AOvVaw0T1ubWI8R5g6A9V_lxLrzg&ust=1723601042910000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjKnLPw8IcDFQAAAAAdAAAAABAE))]
 [![Japanese flag]((https://www.google.ca/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fimages%2Fjapanese-flag-icon-isolated-on-transparent-background-vector%2F483956658&psig=AOvVaw2_fYGhdMR5hD6ZoPnbeCI4&ust=1723601120165000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDk6tnw8IcDFQAAAAAdAAAAABAE))]
 
