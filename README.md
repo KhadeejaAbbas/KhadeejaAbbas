@@ -12,9 +12,8 @@ I'm a Canadian 🇨🇦 currently in the Mountain Time Zone 🏔. I'm interested
 Independent research in gene analysis 🧬 for Tuberculosis supervised by Dr. Shuyi Ma 
 
 ## 🌱 I’m currently learning
-[![Norwegian flag]((https://www.google.ca/url?sa=i&url=https%3A%2F%2Femojiterra.com%2Fflag-for-norway%2F&psig=AOvVaw0T1ubWI8R5g6A9V_lxLrzg&ust=1723601042910000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjKnLPw8IcDFQAAAAAdAAAAABAE))]
-[![Japanese flag]((https://www.google.ca/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fimages%2Fjapanese-flag-icon-isolated-on-transparent-background-vector%2F483956658&psig=AOvVaw2_fYGhdMR5hD6ZoPnbeCI4&ust=1723601120165000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDk6tnw8IcDFQAAAAAdAAAAABAE))]
-
+## 🇳🇴
+## 🇯🇵
 ## 🔨 I've contributed to
 
 [<img src="https://www.google.ca/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F4218406-cute-parking-attendant-vector-design&psig=AOvVaw1oQY7qvrxgEfDt9Np4DctW&ust=1723601187154000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMim3PXw8IcDFQAAAAAdAAAAABAP" height="50px">]((https://github.com/KhadeejaAbbas/CalgaryHacks2024))
