@@ -1,5 +1,4 @@
-## Hi there 👋
-## Hello 👋, my name is Khadeeja Abbas
+## Hello 👋 , my name is Khadeeja Abbas
 
 [![youtube channel link](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@KhadeejaAbbasw)
 
@@ -13,7 +12,6 @@ I'm a Canadian 🇨🇦 currently in the Mountain Time Zone 🏔. I'm interested
 Independent research in gene analysis 🧬 for Tuberculosis supervised by Dr. Shuyi Ma 
 
 ## 🌱 I’m currently learning
-[<img src="https://www.google.ca/url?sa=i&url=https%3A%2F%2Femojiterra.com%2Fflag-for-norway%2F&psig=AOvVaw0T1ubWI8R5g6A9V_lxLrzg&ust=1723601042910000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjKnLPw8IcDFQAAAAAdAAAAABAE" height="50px">])
 [![Norwegian flag]((https://www.google.ca/url?sa=i&url=https%3A%2F%2Femojiterra.com%2Fflag-for-norway%2F&psig=AOvVaw0T1ubWI8R5g6A9V_lxLrzg&ust=1723601042910000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjKnLPw8IcDFQAAAAAdAAAAABAE))]
 [![Japanese flag]((https://www.google.ca/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fimages%2Fjapanese-flag-icon-isolated-on-transparent-background-vector%2F483956658&psig=AOvVaw2_fYGhdMR5hD6ZoPnbeCI4&ust=1723601120165000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDk6tnw8IcDFQAAAAAdAAAAABAE))]
 
