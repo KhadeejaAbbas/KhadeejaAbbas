@@ -1,28 +1,27 @@
+<div align = "center">
+
 ## Hello 👋 , my name is Khadeeja Abbas
 
-## 🍓 About me
+I'm a Canadian 🇨🇦 currently in the Mountain Time Zone 🏔. 
 
-![profile view count](https://komarev.com/ghpvc/?username=KhadeejaAbbas)
+I'm interested in researching the best ways to help as many people I can. This includes using technical skills to solve old problems - such as Tuberculosis 🧬 !
+My hobbies include training Brazilian Jiu-Jitsu 🥋, running 🏃‍♂️, cloud-gazing ☁️, playing with dev boards 💡, or chilling with my family 👨‍👩‍👧‍👦. 
 
-I'm a Canadian 🇨🇦 currently in the Mountain Time Zone 🏔. I'm interested in researching the best ways to help as many people I can. This includes using technical skills to solve old problems - such as Tuberculosis 🧬 ! When I'm not chasing purpose, I can be found training Brazilian Jiu-Jitsu 🥋, running 🏃‍♂️, swimming 🏊, playing with dev boards 💡, or chilling with my family 👨‍👩‍👧‍👦. 
+[![image](https://img.shields.io/badge/LinkedIn-3E6D9C?style=for-the-badge&logo=&logoColor=white)](https://www.linkedin.com/in/khadeejaa/)
+[![image](https://img.shields.io/badge/Email-DD6B4D?style=for-the-badge&logo=&logoColor=white)](mailto:khadeeja.abbas@ucalgary.ca)
+
 ## 🔭 I'm currently working on
 
-Independent research in gene analysis 🧬 for Tuberculosis supervised by Dr. Shuyi Ma 
+Genetics research 🧬 supervised by Dr. Shuyi Ma 
 
 ## 🌱 I’m currently learning
-# 🇳🇴 🇯🇵
+<h3> 🇳🇴 🇯🇵 </h3>
 
 
 
 ## 🔨 I've contributed to
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVZvUhN_xJ-QxFSd-Zi2gaU71OA113vXs4hQ&s" height="225px">](https://github.com/KhadeejaAbbas/razor_sam3u2)
-[<img src="https://cdn-icons-png.flaticon.com/512/1788/1788637.png" height="215px">]((https://github.com/KhadeejaAbbas/CalgaryHacks2024))
-[<img src="https://static.vecteezy.com/system/resources/previews/011/003/366/original/cute-travel-icon-free-png.png" height="230px">](https://github.com/KhadeejaAbbas/CalgaryHacks2023)
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVZvUhN_xJ-QxFSd-Zi2gaU71OA113vXs4hQ&s" height="205px">](https://github.com/KhadeejaAbbas/razor_sam3u2)
+[<img src="https://cdn-icons-png.flaticon.com/512/1788/1788637.png" height="185px">]((https://github.com/KhadeejaAbbas/CalgaryHacks2024))
+[<img src="https://static.vecteezy.com/system/resources/previews/011/003/366/original/cute-travel-icon-free-png.png" height="210px">](https://github.com/KhadeejaAbbas/CalgaryHacks2023)
 
-
-
-
-## 📫 How to reach me
-
-
-[<img src="https://i.pinimg.com/564x/9f/0c/1f/9f0c1f75b46449d96ce3547556e5ae70.jpg" height="50px">](mailto:khadeeja.abbas@ucalgary.ca)
+</div>
