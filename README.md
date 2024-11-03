@@ -15,7 +15,7 @@ My hobbies include training Brazilian Jiu-Jitsu 🥋, running 🏃‍♂️, clo
 Genetics research 🧬 supervised by Dr. Shuyi Ma 
 
 ## 🌱 I’m currently learning
-<h3> 🇳🇴 🇯🇵 </h3>
+<h3> philosophy ~🧐 </h3>
 
 
 
