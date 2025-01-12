@@ -17,8 +17,8 @@ Glad to see you've made it here! I'm a computer science student with a minor in 
 - **[LinkedIn](https://www.linkedin.com/in/khadeejaa/)**
 
 ## 🔨 I've contributed to
-- [An Embedded Tamagotchi Game](https://github.com/KhadeejaAbbas/razor_sam3u2)
 - [Tuber! A Drug Administration Identifier and Tracker](https://github.com/KhadeejaAbbas/HackTheChange2024)
+- [An Embedded Tamagotchi Game](https://github.com/KhadeejaAbbas/razor_sam3u2)
 - [Exaptize - A Tool to Help International Students](https://github.com/KhadeejaAbbas/CalgaryHacks2023)
 
 ## Fun Facts
