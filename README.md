@@ -12,7 +12,7 @@ My hobbies include training Brazilian Jiu-Jitsu 🥋, running 🏃‍♂️, clo
 
 ## 🔭 I'm currently working on
 
-Genetics research 🧬 supervised by Dr. Shuyi Ma 
+Learning about the human body and dna! 🧬 
 
 ## 🌱 I’m currently learning
 <h3> philosophy ~🧐 </h3>
