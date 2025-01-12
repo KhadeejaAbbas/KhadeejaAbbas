@@ -1,27 +1,30 @@
-<div align = "center">
+## Hello, I'm Khadeeja 👋 
 
-## Hello 👋 , my name is Khadeeja Abbas
+Glad to see you've made it here! I'm a computer science student with a minor in bioinformatics at the University of Calgary. I'm currently in the Mountain Time Zone. I'm interested in researching the best ways to help as many people I can. This includes using technical skills to solve old problems - such as Tuberculosis!
 
-I'm a Canadian 🇨🇦 currently in the Mountain Time Zone 🏔. 
+## 🔭 Current Work
 
-I'm interested in researching the best ways to help as many people I can. This includes using technical skills to solve old problems - such as Tuberculosis 🧬 !
-My hobbies include training Brazilian Jiu-Jitsu 🥋, running 🏃‍♂️, cloud-gazing ☁️, playing with dev boards 💡, or chilling with my family 👨‍👩‍👧‍👦. 
+- Creating the code for the [microcontrollers](https://github.com/UCSolarCarTeam/HeliosMBMS-Contactor) for the contactors on **the first four-seater solar car designed and built by a Canadian university**
+- Training to be certified as a Medical First Responder
 
-[![image](https://img.shields.io/badge/LinkedIn-3E6D9C?style=for-the-badge&logo=&logoColor=white)](https://www.linkedin.com/in/khadeejaa/)
-[![image](https://img.shields.io/badge/Email-DD6B4D?style=for-the-badge&logo=&logoColor=white)](mailto:khadeeja.abbas@ucalgary.ca)
+## 🌱 Learning
+- The philosophy behind prejudice and sterotypes
+- Learning how the human body works and how so much information can be stored in DNA. 
+- Networks, Buses, and Embedded Systems
 
-## 🔭 I'm currently working on
-
-Learning about the human body and dna! 🧬 
-
-## 🌱 I’m currently learning
-<h3> philosophy ~🧐 </h3>
-
-
+## 📫 Contact
+- **[Email](khadeeja.abbas@ucalgary.ca)**
+- **[LinkedIn](https://www.linkedin.com/in/khadeejaa/)**
 
 ## 🔨 I've contributed to
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVZvUhN_xJ-QxFSd-Zi2gaU71OA113vXs4hQ&s" height="205px">](https://github.com/KhadeejaAbbas/razor_sam3u2)
-[<img src="https://cdn-icons-png.flaticon.com/512/1788/1788637.png" height="185px">](https://github.com/KhadeejaAbbas/CalgaryHacks2024)
-[<img src="https://static.vecteezy.com/system/resources/previews/011/003/366/original/cute-travel-icon-free-png.png" height="210px">](https://github.com/KhadeejaAbbas/CalgaryHacks2023)
+- [An Embedded Tamagotchi Game](https://github.com/KhadeejaAbbas/razor_sam3u2)
+- [Tuber! A Drug Administration Identifier and Tacker](https://github.com/KhadeejaAbbas/CalgaryHacks2024)
+- [Exaptize - A Tool to Help International Students](https://github.com/KhadeejaAbbas/CalgaryHacks2023)
 
+## Fun Facts
+- I train in Brazilian Jiu-Jitsu 🥋
+- I'm a certified Open Water Diver 🤿
+- I've debated at 6 Model United Nations Conferences! I've gotten the Best Diplomacy Award and 2 Honorable Mentions 🇺🇳
+- I'm interested in start-ups, innovation, and doing uncomfortable things to grow!
 </div>
+
