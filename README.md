@@ -4,7 +4,7 @@ Glad to see you've made it here! I'm a computer science student with a minor in 
 
 ## 🔭 Current Work
 
-- Creating the code for the [microcontrollers](https://github.com/UCSolarCarTeam/HeliosMBMS-Contactor) for the contactors on **the first four-seater solar car designed and built by a Canadian university**
+- Coding the [microcontrollers](https://github.com/UCSolarCarTeam/HeliosMBMS-Contactor) for the contactors on **the first four-seater solar car designed and built by a Canadian university**
 - Training to be certified as a Medical First Responder
 
 ## 🌱 Learning
